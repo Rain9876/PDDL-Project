@@ -1,2 +1,0 @@
-# PDDL-project
-# COME ON !!
